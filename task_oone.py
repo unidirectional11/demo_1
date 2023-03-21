@@ -5,6 +5,10 @@ def add(x,y):
 def random():
     return "hello"
 
+#changes by nehaa
+def demo():
+    return "good morning"
+
 def something():
     return "hello world!"
 
