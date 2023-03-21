@@ -5,7 +5,8 @@ def add(x,y):
 def random():
     return "hello"
 
-
+def something():
+    return "hello world!"
 
 
 if __name__=="__main__":
